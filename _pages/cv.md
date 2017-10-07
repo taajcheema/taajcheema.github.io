@@ -27,15 +27,24 @@ Awards: Earth and Planetary Science Departmental Citation
 <br>
 <h4>WORK EXPERIENCE</h4>
 <p>
-<h6>Research Intern: ExxonMobil Corporation, Houston, TX (June-September, 2017)</h6>
+<h6>Research Intern: ExxonMobil Corporation, Houston, TX (June-September, 2016)</h6>
 <dd>
-Evaluated the effect of broadband seismic technology on amplitude vs offset 
-response. Collaborated extensively with colleagues across the company to address
-problems spanning from rock physics to subsurface interpretation to seismic
-processing.
+Evaluated and modeled the effect of broadband seismic technology on amplitude vs 
+offset response. Collaborated extensively with colleagues across the company to 
+address problems spanning from rock physics to subsurface interpretation to 
+seismic processing.
 </dd>
 <br>
-
+<h6>Research Intern: e4sciences | Earthworks, LLC, Sandy Hook, CT (July-September 2014)</h6>
+<dd>
+Processed all seismic data for a variety of engineering projects. Developed easy
+-to-use Python script to streamline data quality-control measures onboard 
+acquistion boats.
+</dd>
+<h6>Research Intern: Lawrence Berkeley National Laboratory, Berkeley, CA (August-September 2011)</h6>
+<dd>
+Developed a MATLAB script for visualization of 3D magnetotelluric inversion 
+results. Produced a thorough user’s manual for the software.
 </dd>
 <h4>TEACHING EXPERIENCE</h4>
 <p>
