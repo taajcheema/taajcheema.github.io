@@ -29,7 +29,10 @@ Awards: Earth and Planetary Science Departmental Citation
 <p>
 <h6>Research Intern: ExxonMobil Corporation, Houston, TX (June-September, 2017)</h6>
 <dd>
-
+Evaluated the effect of broadband seismic technology on amplitude vs offset 
+response. Collaborated extensively with colleagues across the company to address
+problems spanning from rock physics to subsurface interpretation to seismic
+processing.
 </dd>
 <br>
 
