@@ -29,8 +29,9 @@ permalink: /cv/
 <br>
 <h4>WORK EXPERIENCE</h4>
 <p>
-<h6>Research Intern: ExxonMobil Corporation, Houston, TX (June-September, 2016)</h6>
+<h6>ExxonMobil Corporation, Houston, TX (June-September, 2016)</h6>
 <dd>
+<em>Research Intern</em>
 <ul>
 <li>Evaluated and modeled the effect of broadband seismic technology on amplitude vs 
 offset response </li>
@@ -39,7 +40,6 @@ address problems spanning from rock physics to subsurface interpretation to
 seismic processing</li>
 </ul>
 </dd>
-<br>
 <h6>Research Intern: e4sciences | Earthworks, LLC, Sandy Hook, CT (July-September 2014)</h6>
 <dd>
 <ul>
@@ -51,7 +51,7 @@ seismic processing</li>
 <dd>
 <ul>
 <li>Developed a MATLAB script for visualization of 3D magnetotelluric inversion results.</li>
-<li> Produced a thorough user’s manual for the software.</ul>
+<li> Produced a thorough user’s manual for the software.</li>
 </ul>
 </dd>
 <h4>TEACHING EXPERIENCE</h4>
