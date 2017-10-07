@@ -7,42 +7,12 @@ permalink: /cv/
 
 <html>
 <body>
-
-    <div id="page-wrap">
-    
-        <img src="images/cthulu.png" alt="Photo of Cthulu" id="pic" />
-    
-        <div id="contact-info" class="vcard">
-        
-            <!-- Microformats! -->
-        
-            <h1 class="fn">C'thulhu</h1>
-        
-            <p>
-                Cell: <span class="tel">555-666-7777</span><br />
-                Email: <a class="email" href="mailto:greatoldone@lovecraft.com">greatoldone@lovecraft.com</a>
-            </p>
-        </div>
-                
-        <div id="objective">
-            <p>
-                I am an outgoing and energetic (ask anybody) young professional, seeking a 
-                career that fits my professional skills, personality, and murderous tendencies. 
-                My squid-like head is a masterful problem solver and inspires fear in who gaze upon it. 
-                I can bring world domination to your organization. 
-            </p>
-        </div>
-        
-        <div class="clear"></div>
-        
-        <dl>
-            <dd class="clear"></dd>
-            
-            <dt>Education</dt>
-            <dd>
-                <h2>Withering Madness University - Planet Vhoorl</h2>
-                <p><strong>Major:</strong> Public Relations<br />
-                   <strong>Minor:</strong> Scale Tending</p>
+<h2 class="fn">Education</h2>
+<p>
+<dd>
+<h4>PhD Candidate, Geophysics, Stanford University</h4>
+<p><strong>Major:</strong> Public Relations<br />
+<strong>Minor:</strong> Scale Tending</p>
             </dd>
             
             <dd class="clear"></dd>
