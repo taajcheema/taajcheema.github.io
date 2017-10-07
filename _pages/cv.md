@@ -14,7 +14,6 @@ permalink: /cv/
 <dd>
 <ul>
 <li>Thesis: <em>"Subsurface imaging with non-traditional passive seismic sources"</em></li>
-<br>
 <li>Advisor: Biondo Biondi</li>
 </ul>
 </dd>
