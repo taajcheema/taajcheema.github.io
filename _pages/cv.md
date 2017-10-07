@@ -9,12 +9,12 @@ permalink: /cv/
 <body>
 <h6 class="fn">EDUCATION</h6>
 <p>
-<dd>
-<h9>PhD Candidate, Geophysics, Stanford University</h9>
+<strong>PhD Candidate, Geophysics, Stanford University</strong>
 <p>
 Thesis: <em>"Subsurface imaging withnon-traditional passive seismic sources"</em>
+<p>
 Advisor: Biondo Biondi
-</dd>
+<p>
 <dt>Skills</dt>
 <dd>
                 <h2>Office skills</h2>
