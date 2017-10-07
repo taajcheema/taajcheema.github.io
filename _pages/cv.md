@@ -24,12 +24,13 @@ Minor: Physics
 <br>
 Awards: Earth and Planetary Science Departmental Citation
 </dd>
-<p>
+<br>
 <h4>WORK EXPERIENCE</h4>
 <p>
-<h6>ExxonMobil Corporation, Houston, TX (June-September, 2017)</h6>
+<h6>Research Intern: ExxonMobil Corporation, Houston, TX (June-September, 2017)</h6>
 <dd>
-<em>Research Intern</em>
+
+</dd>
 <br>
 
 </dd>
