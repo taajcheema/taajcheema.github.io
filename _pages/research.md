@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: article
 title: Research
 share: false
 permalink: /research/
