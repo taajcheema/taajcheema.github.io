@@ -23,7 +23,6 @@ permalink: /cv/
 <dd>
 <ul>
 <li>Minor: Physics</li>
-<br>
 <li>Awards: Earth and Planetary Science Departmental Citation</li>
 </ul>
 </dd>
@@ -38,7 +37,7 @@ offset response </li>
 <li>Collaborated extensively with colleagues across the company to 
 address problems spanning from rock physics to subsurface interpretation to 
 seismic processing</li>
-<ul>
+</ul>
 </dd>
 <br>
 <h6>Research Intern: e4sciences | Earthworks, LLC, Sandy Hook, CT (July-September 2014)</h6>
