@@ -9,10 +9,10 @@ permalink: /cv/
 <body>
 <h4 class="fn">EDUCATION</h4>
 <p>
-<h6>PhD Candidate, Geophysics, Stanford University (2011-current</h6>
+<h6>PhD Candidate, Geophysics, Stanford University (2011-current)</h6>
 <p>
 <dd>
-Thesis: <em>"Subsurface imaging withnon-traditional passive seismic sources"</em>
+Thesis: <em>"Subsurface imaging with non-traditional passive seismic sources"</em>
 <br>
 Advisor: Biondo Biondi
 </dd>
@@ -24,53 +24,15 @@ Minor: Physics
 <br>
 Awards: Earth and Planetary Science Departmental Citation
 </dd>
+<p>
 <h4>WORK EXPERIENCE</h4>
 <p>
+<h6>ExxonMobil Corporation, Houston, TX (June-September, 2017)</h6>
+<dd>
+<em>Research Intern</em>
+<br>
+
+</dd>
 <h4>TEACHING EXPERIENCE</h4>
 <p>
-Office and records management, database administration, event organization, customer support, travel coordination</p>
-                
-                <h2>Computer skills</h2>
-                <p>Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows</p>
-            </dd>
-            
-            <dd class="clear"></dd>
-            
-            <dt>Experience</dt>
-            <dd>
-                <h2>Doomsday Cult <span>Leader/Overlord - Baton Rogue, LA - 1926-2010</span></h2>
-                <ul>
-                    <li>Inspired and won highest peasant death competition among servants</li>
-                    <li>Helped coordinate managers to grow cult following</li>
-                    <li>Provided untimely deaths to all who opposed</li>
-                </ul>
-                
-                <h2>The Watering Hole <span>Bartender/Server - Milwaukee, WI - 2009</span></h2>
-                <ul>
-                    <li>Worked on grass-roots promotional campaigns</li>
-                    <li>Reduced theft and property damage percentages</li>
-                    <li>Janitorial work, Laundry</li>
-                </ul> 
-            </dd>
-            
-            <dd class="clear"></dd>
-            
-            <dt>Hobbies</dt>
-            <dd>World Domination, Deep Sea Diving, Murder Most Foul</dd>
-            
-            <dd class="clear"></dd>
-            
-            <dt>References</dt>
-            <dd>Available on request</dd>
-            
-            <dd class="clear"></dd>
-        </dl>
-        
-        <div class="clear"></div>
-    
-    </div>
-
-</body>
-
-</html>
 </html>
