@@ -7,18 +7,16 @@ permalink: /cv/
 
 <html>
 <body>
-<h2 class="fn">Education</h2>
+<h6 class="fn">EDUCATION</h6>
 <p>
 <dd>
-<h4>PhD Candidate, Geophysics, Stanford University</h4>
-<p><strong>Major:</strong> Public Relations<br />
-<strong>Minor:</strong> Scale Tending</p>
-            </dd>
-            
-            <dd class="clear"></dd>
-            
-            <dt>Skills</dt>
-            <dd>
+<h9>PhD Candidate, Geophysics, Stanford University</h9>
+<p>
+Thesis: <em>"Subsurface imaging withnon-traditional passive seismic sources"</em>
+Advisor: Biondo Biondi
+</dd>
+<dt>Skills</dt>
+<dd>
                 <h2>Office skills</h2>
                 <p>Office and records management, database administration, event organization, customer support, travel coordination</p>
                 
