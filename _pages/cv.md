@@ -21,31 +21,39 @@ permalink: /cv/
 <h6>B.A., Geophysics, University of California, Berkeley (2006-2010)</h6>
 <p>
 <dd>
-Minor: Physics
+<ul>
+<li>Minor: Physics</li>
 <br>
-Awards: Earth and Planetary Science Departmental Citation
+<li>Awards: Earth and Planetary Science Departmental Citation</li>
+</ul>
 </dd>
 <br>
 <h4>WORK EXPERIENCE</h4>
 <p>
 <h6>Research Intern: ExxonMobil Corporation, Houston, TX (June-September, 2016)</h6>
 <dd>
-Evaluated and modeled the effect of broadband seismic technology on amplitude vs 
-offset response. Collaborated extensively with colleagues across the company to 
+<ul>
+<li>Evaluated and modeled the effect of broadband seismic technology on amplitude vs 
+offset response </li>
+<li>Collaborated extensively with colleagues across the company to 
 address problems spanning from rock physics to subsurface interpretation to 
-seismic processing.
+seismic processing</li>
+<ul>
 </dd>
 <br>
 <h6>Research Intern: e4sciences | Earthworks, LLC, Sandy Hook, CT (July-September 2014)</h6>
 <dd>
-Processed all seismic data for a variety of engineering projects. Developed easy
--to-use Python script to streamline data quality-control measures onboard 
-acquistion boats.
+<ul>
+<li>Processed all seismic data for a variety of engineering projects</li>
+<li> Developed easy-to-use Python script to streamline data quality-control measures onboard acquistion boats</li>
+</ul>
 </dd>
 <h6>Research Intern: Lawrence Berkeley National Laboratory, Berkeley, CA (August-September 2011)</h6>
 <dd>
-Developed a MATLAB script for visualization of 3D magnetotelluric inversion 
-results. Produced a thorough user’s manual for the software.
+<ul>
+<li>Developed a MATLAB script for visualization of 3D magnetotelluric inversion results.</li>
+<li> Produced a thorough user’s manual for the software.</ul>
+</ul>
 </dd>
 <h4>TEACHING EXPERIENCE</h4>
 <p>
