@@ -6,10 +6,10 @@ locales:
   # -------------------
   en: &DEFAULT_EN
     overview: "Overview"
-    toc: "Table of Contents"
-    written_by: "Written by"
-    updated: "Updated"
-    share: "Share on"
+    toc: " "
+    written_by: " "
+    updated: " "
+    share: " "
   en_US:
     <<: *DEFAULT_EN     # use English translation for en_US
   en_UK:
