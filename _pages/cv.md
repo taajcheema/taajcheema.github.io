@@ -9,7 +9,7 @@ permalink: /cv/
 <body>
 <h4 class="fn">EDUCATION</h4>
 <p>
-<h6>PhD Candidate, Geophysics, Stanford University</h6>
+<h6>PhD Candidate, Geophysics, Stanford University (2011-current</h6>
 <p>
 <dd>
 Thesis: <em>"Subsurface imaging withnon-traditional passive seismic sources"</em>
@@ -17,9 +17,16 @@ Thesis: <em>"Subsurface imaging withnon-traditional passive seismic sources"</em
 Advisor: Biondo Biondi
 </dd>
 <p>
-<h6>B.A., Geophysics, University of California, Berkeley</h6>
+<h6>B.A., Geophysics, University of California, Berkeley (2006-2010)</h6>
+<p>
 <dd>
-<h2>Office skills</h2>
+Minor: Physics
+<br>
+Awards: Earth and Planetary Science Departmental Citation
+</dd>
+<h4>WORK EXPERIENCE</h4>
+<p>
+<h4>TEACHING EXPERIENCE</h4>
 <p>
 Office and records management, database administration, event organization, customer support, travel coordination</p>
                 
