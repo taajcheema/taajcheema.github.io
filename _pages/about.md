@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
 <html>
   <head>
-    <title>{{ page.title }}</title>
+    <title>About</title>
   </head>
   <body>
    I am a currently a PhD Candidate in Geophysics at Stanford University. I am
