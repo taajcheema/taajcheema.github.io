@@ -11,14 +11,17 @@ permalink: /cv/
 <p>
 <h6>PhD Candidate, Geophysics, Stanford University</h6>
 <p>
+<dd>
 Thesis: <em>"Subsurface imaging withnon-traditional passive seismic sources"</em>
 <br>
 Advisor: Biondo Biondi
+</dd>
 <p>
 <h6>B.A., Geophysics, University of California, Berkeley</h6>
 <dd>
-                <h2>Office skills</h2>
-                <p>Office and records management, database administration, event organization, customer support, travel coordination</p>
+<h2>Office skills</h2>
+<p>
+Office and records management, database administration, event organization, customer support, travel coordination</p>
                 
                 <h2>Computer skills</h2>
                 <p>Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows</p>
