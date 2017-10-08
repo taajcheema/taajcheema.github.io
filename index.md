@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: ""
+title: "Change file"
 ---
 
 <div class="tiles">
