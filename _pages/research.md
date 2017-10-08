@@ -21,4 +21,13 @@ permalink: /research/
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+
+<div class="tile">
+<h2 class="post-title">Imaging with deep ocean waves</h2>
+<p class="post-excerpt">Moere Vest</p>
+{% for post in site.categories.foo %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
+
 </div><!-- /.tiles -->
