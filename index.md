@@ -2,5 +2,5 @@
 layout: home
 permalink: /
 image:
-  feature: zion.jpg
+  feature: bryce.jpg
 ---
