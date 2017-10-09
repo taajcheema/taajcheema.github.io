@@ -13,7 +13,6 @@ image:
   </head>
   <body>
   <img style="float: right;" alt="" src="{{ site.url }}/images/{{ page.image.feature }}" />
-  <div style="clear: right">
    <p>
    I am currently a PhD Candidate in Geophysics at Stanford University. I am
    a member of the Stanford Exploration Project, which is overseen by Dr. Biondo
@@ -26,7 +25,6 @@ image:
    solution to problems in fields ranging from earthquake engineering to
    astrophysics.
    </p>
-  </div>    
   </body>
 <!--  <body>
    <div style="right:url({{ site.url }}/images/{{ page.image.feature }})">
