@@ -10,6 +10,7 @@ permalink: /about/
     <title>About</title>
   </head>
   <body>
+   <p>
    I am currently a PhD Candidate in Geophysics at Stanford University. I am
    a member of the Stanford Exploration Project, which is overseen by Dr. Biondo
    Biondi.
@@ -20,5 +21,7 @@ permalink: /about/
    subsurface properties. Such an approach provides a low-cost and effective 
    solution to problems in fields ranging from earthquake engineering to
    astrophysics.
+   <img src="river.jpg" align="right">
+   </p>
   </body>
 </html>
