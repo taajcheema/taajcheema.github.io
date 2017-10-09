@@ -10,11 +10,11 @@ permalink: /about/
     <title>About</title>
   </head>
   <body>
-  <img style="float: right;" alt="" src="{{ site.url }}/images/jpc.jpg" />
    <p>
    I am currently a PhD Candidate in Geophysics at Stanford University. I am
    a member of the Stanford Exploration Project, which is overseen by Dr. Biondo
    Biondi.
+  <img style="float: right;" alt="" src="{{ site.url }}/images/jpc.jpg" />
    <br />
    <br />
    My research aims to transform massive amounts of recorded ambient seismic 
