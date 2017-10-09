@@ -2,5 +2,5 @@
 layout: home
 permalink: /
 image:
-  feature: monument.jpg
+  feature: zion.jpg
 ---
