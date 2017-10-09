@@ -21,7 +21,7 @@ permalink: /about/
    subsurface properties. Such an approach provides a low-cost and effective 
    solution to problems in fields ranging from earthquake engineering to
    astrophysics.
-   <img src="river.jpg" align="right">
+   <img src="river.jpg" style="float:right">
    </p>
   </body>
 </html>
