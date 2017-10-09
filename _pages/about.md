@@ -3,8 +3,6 @@ layout: article
 title: About
 share: false
 permalink: /about/
-image:
-  feature: jpc.jpg
 ---
 
 <html>
@@ -12,7 +10,7 @@ image:
     <title>About</title>
   </head>
   <body>
-  <img style="float: right;" alt="" src="{{ site.url }}/images/{{ page.image.feature }}" />
+  <img style="float: right;" alt="" src="{{ site.url }}/images/jpc.jpg" />
    <p>
    I am currently a PhD Candidate in Geophysics at Stanford University. I am
    a member of the Stanford Exploration Project, which is overseen by Dr. Biondo
