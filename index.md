@@ -1,5 +1,6 @@
 ---
 layout: home
 permalink: /
-image: bio-photo.jpg
+image:
+  feature: bio-photo.jpg
 ---
