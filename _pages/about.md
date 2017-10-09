@@ -4,7 +4,7 @@ title: About
 share: false
 permalink: /about/
 image:
-  feature: river.jpg
+  feature: jpc.jpg
 ---
 
 <html>
