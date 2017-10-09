@@ -2,5 +2,5 @@
 layout: home
 permalink: /
 image:
-  feature: bryce.jpg
+  feature: river.jpg
 ---
