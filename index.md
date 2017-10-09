@@ -2,5 +2,5 @@
 layout: home
 permalink: /
 image:
-  feature: death-valley.jpg
+  feature: canyon.jpg
 ---
