@@ -6,7 +6,7 @@ locales:
   # -------------------
   en: &DEFAULT_EN
     overview: "Overview"
-    toc: " "
+    toc: "Links"
     written_by: " "
     updated: " "
     share: " "
