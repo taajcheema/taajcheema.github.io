@@ -12,6 +12,7 @@ permalink: /about/
   <body>
    <p>
   <img style="float: right;" alt="" src="{{ site.url }}/images/jpc.jpg" />
+   <br/>
    I am currently a PhD Candidate in Geophysics at Stanford University. I am
    a member of the Stanford Exploration Project, which is overseen by Dr. Biondo
    Biondi.
