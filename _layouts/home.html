@@ -61,6 +61,7 @@
       </div><!-- /#main -->
 
       {% include footer.html %}
+      {% if page.share != false %}{% include share-this.html %}{% endif %}
     </div>
 
     <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
