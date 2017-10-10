@@ -1,15 +1,18 @@
 # Site navigation links
 
-- title: research
+- title: Home
+  url: 
+
+- title: Research
   url: /research/
 
-- title: projects
+- title: Projects
   url: /projects/
 
 - title: CV
   url: /cv/
 
-- title: about
+- title: About
   url: /about/
   excerpt: Learn more about Jason
   image:
