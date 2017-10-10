@@ -1,7 +1,6 @@
 ---
 layout: article
 title: About
-share: false
 permalink: /about/
 ---
 
@@ -22,9 +21,6 @@ permalink: /about/
    subsurface properties. Such an approach provides a low-cost and effective 
    solution to problems in fields ranging from earthquake engineering to
    astrophysics.
-   <br />
-   <br />
-   I am also an avid sports fan, with a particular interest in sports analytics.
    </p>
   </body>
 <!--  <body>
