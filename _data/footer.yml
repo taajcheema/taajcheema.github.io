@@ -3,8 +3,5 @@
 - title: Home
   url:
 
-- title: LinkedIn
-  url: https://www.linkedin.com/in/jason-chang-290979a4/
-
-- title: GoogleScholar
-  url: https://scholar.google.com/citations?user=O7AreMUAAAAJ&hl=en
+- title: About
+  url: /about/
