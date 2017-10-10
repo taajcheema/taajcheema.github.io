@@ -15,7 +15,6 @@ permalink: /about/
    I am currently a PhD Candidate in Geophysics at Stanford University. I am
    a member of the Stanford Exploration Project, which is overseen by Dr. Biondo
    Biondi.
-
    <br />
    <br />
    My research aims to transform massive amounts of recorded ambient seismic 
@@ -23,6 +22,9 @@ permalink: /about/
    subsurface properties. Such an approach provides a low-cost and effective 
    solution to problems in fields ranging from earthquake engineering to
    astrophysics.
+   <br />
+   <br />
+   I am also an avid sports fan, with a particular interest in sports analytics.
    </p>
   </body>
 <!--  <body>
