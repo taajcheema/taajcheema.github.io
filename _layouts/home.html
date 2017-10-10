@@ -38,6 +38,7 @@
       <div class="wrap page-lead-content">
         <h1>Jason P Chang</h1>
         <h2>geophysicist</h2>
+        {% if page.share != false %}{% include share-this.html %}{% endif %}
         <!--<a href="{{ site.url }}/getting-started/" class="btn-inverse">Start Using Skinny Bones</a> &nbsp; or &nbsp; <a href="https://github.com/mmistakes/skinny-bones-jekyll" class="btn-inverse">View on GitHub</a>-->
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
@@ -61,7 +62,6 @@
       </div><!-- /#main -->
 
       {% include footer.html %}
-      {% if page.share != false %}{% include share-this.html %}{% endif %}
     </div>
 
     <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
