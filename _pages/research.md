@@ -5,7 +5,7 @@ share: false
 permalink: /research/
 ---
 
-<div class="tiles">
+<!--<div class="tiles">
 <div class="tile">
 <h2 class="post-title">Imaging with traffic noise</h2>
 <p class="post-excerpt">Long Beach</p>
@@ -21,4 +21,4 @@ permalink: /research/
 <p class="post-excerpt">Moere Vest</p>
 </div><!-- /.tiles -->
 
-</div><!-- /.tiles -->
+</div><!-- /.tiles -->-->
