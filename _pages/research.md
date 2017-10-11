@@ -7,7 +7,7 @@ permalink: /research/
 
 <div class="tiles">                                                             
 {% for post in site.categories.research %}
-  {% include post-grid.html %}                                                  
+  {% include post-list.html %}                                                  
 {% endfor %}                                                                    
 </div><!-- /.tiles -->     
 
