@@ -10,7 +10,7 @@ image:
   credit: Jason P Chang
 ---                                                                             
 <p>
-<img src="{{ site.url }}/images/{{page.image.teaser}}.jpg" alt="image-right" class="align-right" />
+<img src="{{ site.url }}/images/{{page.image.teaser}}" alt="image-right" class="align-right" />
 </p>
 
 <p>
