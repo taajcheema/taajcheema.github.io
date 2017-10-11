@@ -5,9 +5,8 @@ share: false
 permalink: /research/
 ---
 
-<div class="tiles">                                                             
-{% for post in site.categories.research %}
-  {% include post-grid.html %}                                                  
-{% endfor %}                                                                    
-</div><!-- /.tiles -->     
-
+<div class="grid__wrapper">
+  {% for post in site.categories.portfolio %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
