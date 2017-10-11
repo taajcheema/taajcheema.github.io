@@ -2,7 +2,7 @@
 layout: media
 title: Research
 share: false
-permalink: /research/
+permalink: /research2/
 ---
 
 <div class="tiles">                                                             
