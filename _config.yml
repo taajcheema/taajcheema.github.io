@@ -40,6 +40,7 @@ owner:
 include:
   - .htaccess
   - "_pages"
+  - "_posts"
 exclude:
   - "*.less"
   - "*.sublime-project"
