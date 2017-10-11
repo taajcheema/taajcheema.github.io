@@ -2,11 +2,12 @@
 layout: media
 title: Research
 share: false
-permalink: /research/
+permalink: /research2/
 ---
 
-<div class="grid__wrapper">
-  {% for post in site.categories.research %}
-    {% include collection-pagination.html type="grid" %}
-  {% endfor %}
-</div>
+<div class="tiles">                                                             
+{% for post in site.categories.research %}
+  {% include post-grid.html %}                                                  
+{% endfor %}                                                                    
+</div><!-- /.tiles -->     
+
