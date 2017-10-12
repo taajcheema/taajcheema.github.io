@@ -29,7 +29,7 @@ Chang, Jason P., Sjoerd AL de Ridder, and Biondo L. Biondi. "High-frequency Rayl
 </p>
 <p>
 <b>Conference Presentations</b><br />
-SEG 2016 [<a  href="http://library.seg.org/doi/abs/10.1190/segam2015-5851307.1" target="_blank">abstract</a>]
-EAGE 2016 [<a  href="http://www.earthdoc.org/publication/publicationdetails/?publication=84875" target="_blank">abstract</a>]
+SEG 2016 [<a  href="http://library.seg.org/doi/abs/10.1190/segam2015-5851307.1" target="_blank">abstract</a>]<br />
+EAGE 2016 [<a  href="http://www.earthdoc.org/publication/publicationdetails/?publication=84875" target="_blank">abstract</a>]<br />
 AGU 2015 [<a  href="{{site.url}}/images/agu2015-v01.pdf" target="_blank">poster</a>]
 </p>
