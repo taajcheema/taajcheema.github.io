@@ -23,10 +23,10 @@ Data courtesy of Signal Hill Petroluem and Nodal Seismic.
 </p>
 <!--<img src="{{ site.url }}/images/lb-snap.jpg" />-->
 <p>
-<b>Publication</b><br>
-Chang, Jason P., Sjoerd AL de Ridder, and Biondo L. Biondi. "High-frequency Rayleigh-wave tomography using traffic noise from Long Beach, California." Geophysics 81.2 (2016): B43-B53.<br>
+<b>Publication</b><br />
+Chang, Jason P., Sjoerd AL de Ridder, and Biondo L. Biondi. "High-frequency Rayleigh-wave tomography using traffic noise from Long Beach, California." Geophysics 81.2 (2016): B43-B53.<br />
 <em>doi</em>: <a href="http://library.seg.org/doi/abs/10.1190/geo2015-0415.1">10.1190/geo2015-0415.1<a>
 </p>
 <p>
-<b>Conference Abstracts</b><br>
+<b>Conference Abstracts</b><br />
 </p>
