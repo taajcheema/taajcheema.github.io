@@ -25,11 +25,11 @@ Data courtesy of Signal Hill Petroleum and Nodal Seismic.
 <p>
 <b>Publications</b><br />
 Chang, Jason P., Sjoerd AL de Ridder, and Biondo L. Biondi. "High-frequency Rayleigh-wave tomography using traffic noise from Long Beach, California." Geophysics 81.2 (2016): B43-B53.<br />
-<em>doi</em>: <a href="http://library.seg.org/doi/abs/10.1190/geo2015-0415.1">10.1190/geo2015-0415.1</a>
+<em>doi</em>: <a href="http://library.seg.org/doi/abs/10.1190/geo2015-0415.1" target="_blank">10.1190/geo2015-0415.1</a>
 </p>
 <p>
 <b>Conference Presentations</b><br />
-SEG 2016 [<a  href="http://library.seg.org/doi/abs/10.1190/segam2015-5851307.1">abstract</a>]
-EAGE 2016 [<a  href="http://www.earthdoc.org/publication/publicationdetails/?publication=84875">abstract</a>]
-AGU 2015 [<a  href="{{site.url}}/images/agu2015_v01.pdf">poster</a>]
+SEG 2016 [<a  href="http://library.seg.org/doi/abs/10.1190/segam2015-5851307.1" target="_blank">abstract</a>]
+EAGE 2016 [<a  href="http://www.earthdoc.org/publication/publicationdetails/?publication=84875" target="_blank">abstract</a>]
+AGU 2015 [<a  href="{{site.url}}/images/agu2015-v01.pdf" target="_blank">poster</a>]
 </p>
