@@ -21,3 +21,4 @@ Using a dense seismic array in Long Beach, California, we investigate the effect
 <p>
 Data courtesy of Signal Hill Petroluem and Nodal Seismic.
 </p>
+<img src="{{ site.url }}/images/lb-snap.jpg" />
