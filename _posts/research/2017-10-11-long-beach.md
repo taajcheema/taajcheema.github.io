@@ -1,6 +1,6 @@
 ---                                                                             
 layout: media                                                                   
-title: "Near-surface velocity maps using traffic vibrations"
+title: "Near-surface velocity maps using traffic noise"
 categories: research
 excerpt: "Vibrations from cars driving in Long Beach, CA, provide signal that can be harnessed for estimating seismic velocities."
 ads: false                                                                       
