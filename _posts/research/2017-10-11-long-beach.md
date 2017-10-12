@@ -23,14 +23,14 @@ Data courtesy of Signal Hill Petroleum and Nodal Seismic.
 </p>
 <!--<img src="{{ site.url }}/images/lb-snap.jpg" />-->
 <p>
-<b>Publication</b><br />
+<b>Publications</b><br />
 Chang, Jason P., Sjoerd AL de Ridder, and Biondo L. Biondi. "High-frequency Rayleigh-wave tomography using traffic noise from Long Beach, California." Geophysics 81.2 (2016): B43-B53.<br />
 <em>doi</em>: <a href="http://library.seg.org/doi/abs/10.1190/geo2015-0415.1">10.1190/geo2015-0415.1</a>
 </p>
 <p>
 <b>Conference Abstracts</b><br />
-Chang, Jason P., and Biondo Biondi. "Rayleigh-wave tomography using traffic noise at Long Beach, CA." SEG Technical Program Expanded Abstracts 2015. Society of Exploration Geophysicists, 2015. 2424-2429.<br />
+Chang, Jason P., Sjoerd AL de Ridder, and Biondo Biondi. "Rayleigh-wave tomography using traffic noise at Long Beach, CA." SEG Technical Program Expanded Abstracts 2015. Society of Exploration Geophysicists, 2015. 2424-2429.<br />
 <em>doi</em>: <a href="http://library.seg.org/doi/abs/10.1190/segam2015-5851307.1">10.1190/segam2015-5851307.1</a><br /><br />
-Chang, Jason P., and Biondo Biondi. "Shallow Rayleigh-wave Tomography Using Traffic Noise From Long Beach, California, USA." EAGE Technical Program Expanded Abstracts 2016. European Association of Geoscientists and Engineers, 2016.<br />
+Chang, Jason P., Sjoerd AL de Ridder, and Biondo Biondi. "Shallow Rayleigh-wave Tomography Using Traffic Noise From Long Beach, California, USA." EAGE Technical Program Expanded Abstracts 2016. European Association of Geoscientists and Engineers, 2016.<br />
 <em>doi</em>: <a href="http://www.earthdoc.org/publication/publicationdetails/?publication=84875">10.3997/2214-4609.201600629</a><br /><br />
 </p>
