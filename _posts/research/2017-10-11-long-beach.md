@@ -12,19 +12,19 @@ image:
 ---                                                                             
 
 <style>
-    .container{width:900px;}
-    .photo{width:400px; font-size:100%; text-align:left; vertical-align:top; display:inline-block;}
-
+.imgContainer{
+    float:left;
+}
 </style>
 
-<div class="container">
-    <div class="photo">
+<div class="image12">
+    <div class="imgContainer">
         <img src="{{ site.url }}/images/sh-noise-movie-high.gif" />
-        This is the caption
+        <p>This is image 1</p>
     </div>
-    <div class="photo">
+    <div class="imgContainer">
         <img src="{{ site.url }}/images/sh-noise-movie-high.gif" />
-        This is the caption
+        <p>This is image 2</p>
     </div>
 </div>
 <!--<div class="image-wrap">
