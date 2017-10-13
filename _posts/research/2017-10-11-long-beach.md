@@ -32,6 +32,8 @@ image:
         <!--<p><em>Example of a virtual source generated from noise.</em></p>-->
         <div><em>Example of a virtual source generated from noise.</em></div>
     </div>
+<br />
+<br />
 </p>
 <!--</div>-->
 <!--<div class="image-wrap">
