@@ -11,6 +11,7 @@ image:
   credit: Jason P Chang
 ---                                                                             
 
+<figure>
 <figure display="inline: block">
     <img src="{{ site.url }}/images/sh-noise-movie-high.gif" alt="" width="400" height="300"/>
     <figcaption>Caption</figcaption>
@@ -18,6 +19,7 @@ image:
 <figure display="inline: block">
     <img src="{{ site.url }}/images/sh-noise-movie-high.gif" alt="" width="400" height="300" />
     <figcaption>Caption</figcaption>
+</figure>
 </figure>
 <!--<div class="image-wrap">
 <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="30" />
