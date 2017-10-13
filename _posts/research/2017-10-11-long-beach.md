@@ -19,11 +19,11 @@ image:
 
 <div class="image12">
     <div class="imgContainer">
-        <img src="{{ site.url }}/images/sh-noise-movie-high.gif" />
+        <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="300"/>
         <p>This is image 1</p>
     </div>
     <div class="imgContainer">
-        <img src="{{ site.url }}/images/sh-noise-movie-high.gif" />
+        <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="300" />
         <p>This is image 2</p>
     </div>
 </div>
