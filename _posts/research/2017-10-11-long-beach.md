@@ -10,9 +10,9 @@ image:
   teaser: lb-tomo.jpg
   credit: Jason P Chang
 ---                                                                             
-<div class="image">
+<div class="image-wrap">
 <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="30" />
-<div><br /><em>Ambient noise recorded by the Long Beach array.</em></div>
+<div><br /><em>Ambient noise recorded by the Long Beach array.!!</em></div>
 <img src="{{ site.url }}/images/sh-master3-sym-movie-high35.gif" width="400" height="300" />
 <div><br /><em>Example of a virtual source generated from ambient noise.</em></div>
 <img src="{{ site.url }}/images/{{page.image.teaser}}" />
