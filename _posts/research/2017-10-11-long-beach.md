@@ -24,7 +24,7 @@ image:
     </div>
     <div class="imgContainer">
         <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="300" />
-        <p><em>Velocity tomography results from traffic noise, compared to a geologic map.</em></p>
+        <p><em>Velocity tomography results from traffic noise.</em></p>
     </div>
 </div>
 <!--<div class="image-wrap">
