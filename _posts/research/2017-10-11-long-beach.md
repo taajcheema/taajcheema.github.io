@@ -23,8 +23,7 @@ image:
 <div class="image12">
     <div class="imgContainerL">
         <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="300"/>
-        <--<p><em>Ambient noise recorded by the Long Beach array.</em></p>-->
-        <div><em>Ambient noise recorded by the Long Beach array.</em></div>
+        <!--<p><em>Ambient noise recorded by the Long Beach array.</em></p>-->
     </div>
     <div class="imgContainerR">
         <img src="{{ site.url }}/images/sh-master3-sym-movie-high35.gif" width="400" height="300" />
