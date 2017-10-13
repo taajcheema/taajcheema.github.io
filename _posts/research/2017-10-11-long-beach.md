@@ -16,6 +16,10 @@ image:
       </p>
 </div>-->
 <div class="image">
+<img src="{{ site.url }}/images/sh-master3-sym-movie-high35.gif" width="400" height="300" />
+<div><br /><em>Example of a virtual source generated from ambient noise.</em></div>
+<img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="300" />
+<div><br /><em>Ambient noise recorded by the Long Beach array.</em></div>
 <img src="{{ site.url }}/images/{{page.image.teaser}}" />
 <div><br /><em>Velocity tomography results from traffic noise.</em></div>
 </div>
@@ -26,8 +30,6 @@ Using a dense seismic array in Long Beach, California, we investigate the effect
 <p>
 Data courtesy of Signal Hill Petroleum and Nodal Seismic.
 </p>
-<img src="{{ site.url }}/images/sh-master3-sym-movie-high35.gif" width="400" height="300" />
-<img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="300" />
 <p>
 <b>Publications</b><br />
 Chang, Jason P., Sjoerd AL de Ridder, and Biondo L. Biondi. "High-frequency Rayleigh-wave tomography using traffic noise from Long Beach, California." Geophysics 81.2 (2016): B43-B53.<br />
