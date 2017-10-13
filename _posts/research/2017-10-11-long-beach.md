@@ -28,7 +28,8 @@ Using a dense seismic array in Long Beach, California, we investigate the effect
 Data courtesy of Signal Hill Petroleum and Nodal Seismic.
 </p>
 <img src="{{ site.url }}/images/{{page.image.teaser}}" />
-<div><em>Velocity tomography results from traffic noise, with comparison to geologic map.</em></div><br />
+<div><em>Velocity tomography results from traffic noise, with comparison to a geologic map.</em></div><br />
+
 <p>
 <b>Publications</b><br />
 Chang, Jason P., Sjoerd AL de Ridder, and Biondo L. Biondi. "High-frequency Rayleigh-wave tomography using traffic noise from Long Beach, California." Geophysics 81.2 (2016): B43-B53.<br />
