@@ -11,16 +11,31 @@ image:
   credit: Jason P Chang
 ---                                                                             
 
-<figure role="group">
-<figure>
-    <img src="{{ site.url }}/images/sh-noise-movie-high.gif" alt="" width="400" height="300"/>
-    <figcaption>Caption</figcaption>
-</figure>
-<figure>
-    <img src="{{ site.url }}/images/sh-noise-movie-high.gif" alt="" width="400" height="300" />
-    <figcaption>Caption</figcaption>
-</figure>
-</figure>
+<style>
+    .container{width:600px;}
+    .photo{width:80px; font-size:80%; text-align:center; vertical-align:top; display:inline-block;}
+
+    @media screen and (min-width: 160px) {
+    .container{width:160px;}
+    }
+    @media screen and (min-width: 240px) {
+    .container{width:240px;}
+    }
+    @media screen and (min-width: 640px) {
+    .container{width:400px;}
+    }
+</style>
+
+<div class="container">
+    <div class="photo">
+        <img src="{{ site.url }}/images/sh-noise-movie-high.gif" />
+        This is the caption
+    </div>
+    <div class="photo">
+        <img src="{{ site.url }}/images/sh-noise-movie-high.gif" />
+        This is the caption
+    </div>
+</div>
 <!--<div class="image-wrap">
 <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="30" />
 <div><br /><em>Ambient noise recorded by the Long Beach array.!!</em></div>
