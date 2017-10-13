@@ -13,7 +13,7 @@ image:
 
 <style>
     .container{width:600px;}
-    .photo{width:400px; font-size:80%; text-align:center; vertical-align:top; display:inline-block;}
+    .photo{width:300px; font-size:80%; text-align:left; vertical-align:top; display:inline-block;}
 
     @media screen and (min-width: 160px) {
     .container{width:160px;}
