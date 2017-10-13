@@ -14,6 +14,8 @@ image:
 <div class="image" style="display:table;">
     <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="300" />
     <div style="display:table-caption;caption-side:bottom;">This is the caption.</div>
+    <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="300" />
+    <div style="display:table-caption;caption-side:bottom;">This is the caption.</div>
 </div>
 <!--<div class="image-wrap">
 <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="30" />
