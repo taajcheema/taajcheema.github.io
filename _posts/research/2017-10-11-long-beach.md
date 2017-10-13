@@ -21,7 +21,7 @@ image:
 </style>
 
 <!--<div class="image12">-->
-<p class="image12" style=="padding-bottom:10px">
+<p class="image12" style="padding-bottom:10px">
     <div class="imgContainerL">
         <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="300"/>
         <div><em>Ambient noise recorded by the Long Beach array.</em></div>
