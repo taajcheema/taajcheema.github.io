@@ -13,7 +13,7 @@ image:
 
 <style>
 .imgContainerL{
-    float:left;
+    display:inline-block;
 }
 .imgContainerR{
     float:right;
