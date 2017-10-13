@@ -15,15 +15,6 @@ image:
     .container{width:900px;}
     .photo{width:400px; font-size:100%; text-align:left; vertical-align:top; display:inline-block;}
 
-    @media screen and (min-width: 160px) {
-    .container{width:160px;}
-    }
-    @media screen and (min-width: 240px) {
-    .container{width:240px;}
-    }
-    @media screen and (min-width: 640px) {
-    .container{width:400px;}
-    }
 </style>
 
 <div class="container">
