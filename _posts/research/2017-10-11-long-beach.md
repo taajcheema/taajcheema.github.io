@@ -21,12 +21,12 @@ image:
 </style>
 
 <!--<div class="image12">-->
-<p class="image12" style="padding-bottom:10px">
+<p class="image12">
     <div class="imgContainerL">
         <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="300"/>
         <div><em>Ambient noise recorded by the Long Beach array.</em></div>
     </div>
-    <div class="imgContainerR">
+    <div class="imgContainerL">
         <img src="{{ site.url }}/images/sh-master3-sym-movie-high35.gif" width="400" height="300" />
         <div><em>Example of a virtual source generated from noise.</em></div>
     </div>
