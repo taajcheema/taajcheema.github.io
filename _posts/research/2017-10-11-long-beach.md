@@ -11,12 +11,12 @@ image:
   credit: Jason P Chang
 ---                                                                             
 
+<figure role="group">
 <figure>
-<figure display="inline: block">
     <img src="{{ site.url }}/images/sh-noise-movie-high.gif" alt="" width="400" height="300"/>
     <figcaption>Caption</figcaption>
 </figure>
-<figure display="inline: block">
+<figure>
     <img src="{{ site.url }}/images/sh-noise-movie-high.gif" alt="" width="400" height="300" />
     <figcaption>Caption</figcaption>
 </figure>
