@@ -13,10 +13,10 @@ image:
 <div class="image">
 <div style="float: left">
 <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="30" />
-<p><br /><em>Ambient noise recorded by the Long Beach array.</em></p></div>
+<p><em>Ambient noise recorded by the Long Beach array.</em></p></div>
 <img src="{{ site.url }}/images/sh-master3-sym-movie-high35.gif" width="400" height="300" />
 <div style="float: left">
-<p><br /><em>Example of a virtual source generated from ambient noise.</em></p></div>
+<p><em>Example of a virtual source generated from ambient noise.!!</em></p></div>
 <img src="{{ site.url }}/images/{{page.image.teaser}}" />
 <div><br /><em>Velocity tomography results from traffic noise.</em></div>
 </div>
