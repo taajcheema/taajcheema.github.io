@@ -12,12 +12,12 @@ image:
 ---                                                                             
 <div id="images">
   <div class="half">
-    <img class="gunimage" border="0" src="{{ site.url }}/images/sh-noise-movie-high.gif">
-    <p>this is text</p>
+    <img class="gunimage" border="0" src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="300">
+    <p>text</p>
   </div>
   <div class="half">
-    <img class="gunimage" border="0" src="{{ site.url }}/images/sh-master3-sym-movie-high35.gif">
-    <p>this is also text</p>
+    <img class="gunimage" border="0" src="{{ site.url }}/images/sh-master3-sym-movie-high35.gif" width="400" height="300">
+    <p>text</p>
   </div>
 </div>
 <!--<div class="image-wrap">
