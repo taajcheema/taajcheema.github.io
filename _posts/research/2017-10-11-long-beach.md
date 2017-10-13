@@ -11,10 +11,14 @@ image:
   credit: Jason P Chang
 ---                                                                             
 
-<div class="image">
-    <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="300" />
-    <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="300" />
-</div>
+<figure>
+    <img src="{{ site.url }}/images/sh-noise-movie-high.gif" alt=""/>
+    <figcaption>Caption</figcaption>
+</figure>
+<figure>
+    <img src="{{ site.url }}/images/sh-noise-movie-high.gif" alt=""/>
+    <figcaption>Caption</figcaption>
+</figure>
 <!--<div class="image-wrap">
 <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="30" />
 <div><br /><em>Ambient noise recorded by the Long Beach array.!!</em></div>
