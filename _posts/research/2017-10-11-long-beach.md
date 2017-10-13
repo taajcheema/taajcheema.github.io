@@ -13,11 +13,11 @@ image:
 
 <p class="image12">
     <div style="display:inline-block">
-        <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="300"/>
+        <img src="{{ site.url }}/images/lb-noise.gif" width="400" height="300"/>
         <div><em>Ambient noise recorded by the Long Beach array.</em></div>
     </div>
     <div style="display:inline-block">
-        <img src="{{ site.url }}/images/sh-master3-sym-movie-high35.gif" width="400" height="300" />
+        <img src="{{ site.url }}/images/lb-corr.gif" width="400" height="300" />
         <div><em>Example of a virtual source generated from noise.</em></div>
     </div>
 <br />
