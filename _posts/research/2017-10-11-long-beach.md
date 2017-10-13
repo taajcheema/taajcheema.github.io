@@ -12,17 +12,20 @@ image:
 ---                                                                             
 
 <style>
-.imgContainer{
+.imgContainerL{
     float:left;
+}
+.imgContainerR{
+    float:right;
 }
 </style>
 
 <div class="image12">
-    <div class="imgContainer">
+    <div class="imgContainerL">
         <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="300"/>
         <p><em>Ambient noise recorded by the Long Beach array.</em></p>
     </div>
-    <div class="imgContainer">
+    <div class="imgContainerR">
         <img src="{{ site.url }}/images/sh-noise-movie-high.gif" width="400" height="300" />
         <p><em>Velocity tomography results from traffic noise.</em></p>
     </div>
