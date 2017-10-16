@@ -6,16 +6,13 @@ permalink: /cv/
 ---
 
 <h4 class="fn">EDUCATION</h4>
-<p>
 <h6>PhD Candidate, Geophysics, Stanford University (2011-current)</h6>
 <dd>
-<p>
 <ul style="padding: 0px;">
 <li>Thesis: <em>"Subsurface imaging with non-traditional passive seismic sources"</em></li>
 <li>Advisor: Biondo Biondi</li>
 </ul>
 </dd>
-<p>
 <h6>B.A., Geophysics, University of California, Berkeley (2006-2010)</h6>
 <p>
 <dd>
@@ -26,7 +23,6 @@ permalink: /cv/
 </dd>
 <br>
 <h4>WORK EXPERIENCE</h4>
-<p>
 <h6>ExxonMobil Corporation, Houston, TX (June-September, 2016)</h6>
 <em>Research Intern</em>
 <dd>
