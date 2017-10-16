@@ -13,7 +13,7 @@ permalink: /cv/
 <p>
 <dd>
 <ul>
-<li>Thesis: <em>"Subsurface imaging with non-traditional passive seismic sources"</em></li>
+<li style="margin:0;">Thesis: <em>"Subsurface imaging with non-traditional passive seismic sources"</em></li>
 <li>Advisor: Biondo Biondi</li>
 </ul>
 </dd>
