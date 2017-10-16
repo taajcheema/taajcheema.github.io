@@ -12,7 +12,7 @@ permalink: /cv/
 <h6>PhD Candidate, Geophysics, Stanford University (2011-current)</h6>
 <p>
 <dd>
-<ul style="padding-left:20px">
+<ul style="padding=0;">
 <li>Thesis: <em>"Subsurface imaging with non-traditional passive seismic sources"</em></li>
 <li>Advisor: Biondo Biondi</li>
 </ul>
