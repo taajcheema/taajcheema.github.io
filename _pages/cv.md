@@ -14,8 +14,8 @@ permalink: /cv/
 <li>Thesis: <em>"Subsurface imaging with non-traditional passive seismic sources"</em></li>
 <li>Advisor: Biondo Biondi</li>
 </ul>
-<p>
 </dd>
+<p>
 <h6>B.A., Geophysics, University of California, Berkeley (2006-2010)</h6>
 <p>
 <dd>
