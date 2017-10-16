@@ -9,7 +9,7 @@ permalink: /about/
     <title>About</title>
   </head>
   <body>
-  <img style="float: right; display: inline;" alt="" src="{{ site.url }}/images/jpc.jpg" />
+  <img style="float: right; display: inline;" alt="" src="{{ site.url }}/images/jpc.jpg" width="350" height="335" />
   <!--<img align="right" alt="" src="{{ site.url }}/images/jpc.jpg" />-->
    <p>
    I am currently a PhD Candidate in Geophysics at Stanford University. I am
