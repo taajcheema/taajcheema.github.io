@@ -14,8 +14,8 @@ permalink: /cv/
 </ul>
 </dd>
 <h6>B.A., Geophysics, University of California, Berkeley (2006-2010)</h6>
-<dd>
 <p>
+<dd>
 <ul style="padding: 0px;">
 <li>Minor: Physics</li>
 <li>Awards: Earth and Planetary Science Departmental Citation</li>
