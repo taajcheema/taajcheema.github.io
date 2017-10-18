@@ -92,3 +92,10 @@ seismic processing</li>
 <li><b>Operating Systems</b>: Linux/Unix, Mac OS X, Windows</li>
 </ul>
 </dd>
+<br>
+<h4>Professional Affiliations</h4>
+<dd>                                                                            
+<ul style="padding: 0px;"> 
+<li>American Geophysical Union (2009-present)</li>
+<li>Society of Exploraton Geophysicists (2011-present)</li>
+</ul>
