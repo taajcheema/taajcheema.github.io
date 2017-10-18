@@ -115,7 +115,7 @@ seismic processing</li>
 <dd>                                                                            
 <ul style="padding: 0px;"> 
 <li>American Geophysical Union (2009-present)</li>
-<li>Society of Exploraton Geophysicists (2011-present)</li>
+<li>Society of Exploration Geophysicists (2011-present)</li>
 <ul>
 <li>President of the Stanford SEG student chapter (2012)</li>
 </ul>
