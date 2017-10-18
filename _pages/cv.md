@@ -50,12 +50,19 @@ seismic processing</li>
 <li> Produced a thorough user’s manual for the software.</li>
 </ul>
 </dd>
-<h6>Participant, NSF International Research Experiences for Students, New Zealand (April-May 2011)</h6>
+<h6>NSF International Research Experiences for Students, New Zealand (April-May 2011)</h6>
 <em>Participant</em>
 <dd>
 <ul style="padding: 0px;">
 <li>Investigated whether changes in magnetotelluric phase tensors over time were due to changes in the subsurface or due to measurement errors </li>
-<li> Performed field work in the Taupo Volcanic Zone</li>
+<li> Performed geophysical field work in the Taupo Volcanic Zone</li>
+</ul>
+</dd>
+<h6>Berkeley Seismological Laboratory, Berkeley, California (April 2010-March 2011)</h6>
+<em>Assistant Researcher</em>
+<dd>
+<ul style="padding: 0px;">
+<li> Compared measured P and PcP arrivals from earthquake events in South America with modeled arrival times to investigate D” layer anisotropy in the quasi-southern hemisphere</li>
 </ul>
 </dd>
 <h4>TEACHING EXPERIENCE</h4>
