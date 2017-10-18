@@ -85,7 +85,7 @@ seismic processing</li>
 </ul>
 </dd>
 <br>
-<h4>Skills</h4>
+<h4>SKILLS</h4>
 <dd>
 <ul style="padding: 0px;">  
 <li><b>Programming</b>: Python, Fortran, MATLAB, Make (proficient) R, C, C++, SQL (developing)</li>
@@ -93,9 +93,12 @@ seismic processing</li>
 </ul>
 </dd>
 <br>
-<h4>Professional Affiliations</h4>
+<h4>PROFESSIONAL AFFILIATIONS</h4>
 <dd>                                                                            
 <ul style="padding: 0px;"> 
 <li>American Geophysical Union (2009-present)</li>
 <li>Society of Exploraton Geophysicists (2011-present)</li>
+<ul>
+<li>President of the Stanford SEG student chapter (2012)</li>
+</ul>
 </ul>
