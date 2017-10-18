@@ -88,7 +88,7 @@ seismic processing</li>
 <ul style="padding: 0px;">
 <li><b>Chang, Jason P.</b>, "Multicomponent ambient noise crosscorrelation at Forties." SEG Technical Program Expanded Abstracts 2016. Society of Exploration Geophysicists, 2016. 2709-2714. (Oral Presentation)</li>
 <li><b>Chang, Jason P.</b>, and Biondo Biondi. "Rayleigh-wave tomography using traffic noise at Long Beach, CA." SEG Technical Program Expanded Abstracts 2015. Society of Exploration Geophysicists, 2015. 2424-2429. (Oral Presentation)</li>
-<li><b>Chang, Jason P.</b>, and Rosemary J. Knight. "Resolving Lithological Units in the Vadose Zone from Temporal Changes in Electrical Conductivity." AGU Fall Meeting Abstracts. 2014. (Poster Presentation)</li>
+<li><b>Chang, Jason P.</b>, and Rosemary J. Knight. "Resolving Lithological Units in the Vadose Zone from Temporal Changes in Electrical Conductivity." AGU Fall Meeting Abstracts, 2014. (Poster Presentation)</li>
 <li><b>Chang, Jason P.</b>, Sjoerd de Ridder, and Biondo Biondi. "Power spectral densities and ambient noise cross-correlations at Long Beach." SEG Technical Program Expanded Abstracts 2013. Society of Exploration Geophysicists, 2013. 2196-2200. (Oral Presentation)</li>
 </ul>
 </dd>
