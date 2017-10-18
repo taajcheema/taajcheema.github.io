@@ -112,6 +112,7 @@ seismic processing</li>
 <li><em>Developing</em>: R, C, C++, SQL</li>
 </ul>
 <li><b>Operating Systems</b>: Linux/Unix, Mac OS X, Windows</li>
+<li><b>Software Development</b>: Git, Docker</li>
 </ul>
 </dd>
 <br>
