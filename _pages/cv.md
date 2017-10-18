@@ -74,6 +74,7 @@ seismic processing</li>
 <li>Leveraged results to infer the physical composition of expelled plume material and the geologic evolution of this moon</li>
 </ul>
 </dd>
+<br>
 <h4>TEACHING EXPERIENCE</h4>
 <h6>Stanford University</h6>
 <em>Teaching Assistant</em>
@@ -83,4 +84,5 @@ seismic processing</li>
 <li>Basic Earth Imaging (Fall 2016)</li>
 </ul>
 </dd>
-<p>
+<br>
+<h4>Skills</h4>
