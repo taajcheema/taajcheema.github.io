@@ -78,7 +78,7 @@ seismic processing</li>
 <h4>PUBLICATIONS</h4>
 <dd>                                                                            
 <ul style="padding: 0px;">
-<li<b>Chang, J. P.</b>, de Ridder, S. A., & Biondi, B. L. (2016). High-frequency Rayleigh-wave tomography using traffic noise from Long Beach, California. Geophysics, 81(2), B43-B53.</li>
+<li><b>Chang, J. P.</b>, de Ridder, S. A., & Biondi, B. L. (2016). High-frequency Rayleigh-wave tomography using traffic noise from Long Beach, California. Geophysics, 81(2), B43-B53.</li>
 <li>Nakata, N., <b>Chang, J. P.</b>, Lawrence, J. F., & Boué, P. (2015). Body wave extraction and tomography at Long Beach, California, with ambient‐noise interferometry. Journal of Geophysical Research: Solid Earth, 120(2), 1159-1173.</li>
 </ul>
 </dd>
