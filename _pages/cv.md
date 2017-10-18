@@ -9,20 +9,19 @@ permalink: /cv/
 <h6>PhD Candidate, Geophysics, Stanford University (2011-current)</h6>
 <dd>
 <ul style="padding: 0px;">
-<li>Thesis: <em>"Subsurface imaging with non-traditional passive seismic sources"</em></li><li>Advisor: Biondo Biondi</li>
+<li>Thesis: <em>"Subsurface imaging with non-traditional passive seismic sources"</em></li>
+<li>Advisor: Biondo Biondi</li>
 </ul>
 </dd>
 <h6>B.A., Geophysics, University of California, Berkeley (2006-2010)</h6>
 <p>
-<dd>
 <ul style="padding: 0px;">
 <li>Minor: Physics</li>
 <li>Awards: Earth and Planetary Science Departmental Citation</li>
 </ul>
-</dd>
 <br>
 <h4>WORK EXPERIENCE</h4>
-<h6>ExxonMobil Corporation, Houston, TX (June-September, 2016)</h6>
+<h6>ExxonMobil Corporation, Houston, TX (June-September 2016)</h6>
 <em>Research Intern</em>
 <dd>
 <ul style="padding: 0px;">
@@ -33,7 +32,8 @@ address problems spanning from rock physics to subsurface interpretation to
 seismic processing</li>
 </ul>
 </dd>
-<h6>Research Intern: e4sciences | Earthworks, LLC, Sandy Hook, CT (July-September 2014)</h6>
+<h6>e4sciences | Earthworks, LLC, Sandy Hook, CT (July-September 2014)</h6>
+<em>Research Intern</em>
 <dd>
 <ul style="padding: 0px;">
 <li>Processed all seismic data for a variety of engineering projects</li>
