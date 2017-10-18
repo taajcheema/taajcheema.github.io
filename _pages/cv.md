@@ -88,6 +88,7 @@ seismic processing</li>
 <h4>Skills</h4>
 <dd>
 <ul style="padding: 0px;">  
-<li><b>Programming</b>: Python, Fortran, MATLAB, Make, R (proficient) C, C++, SQL (developing</li>
+<li><b>Programming</b>: Python, Fortran, MATLAB, Make, Git (proficient) R, C, C++, SQL, Docker (developing)</li>
+<li><b>Operating Systems</b>Linux/Unix, Mac OS X, Windows</li>
 </ul>
 </dd>
