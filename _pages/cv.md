@@ -78,11 +78,19 @@ seismic processing</li>
 <h4>PUBLICATIONS</h4>
 <dd>                                                                            
 <ul style="padding: 0px;">
-<li><b>Chang, J. P.</b>, de Ridder, S. A., & Biondi, B. L. (2016). High-frequency Rayleigh-wave tomography using traffic noise from Long Beach, California. Geophysics, 81(2), B43-B53.</li>
-<li>Nakata, N., <b>Chang, J. P.</b>, Lawrence, J. F., & Boué, P. (2015). Body wave extraction and tomography at Long Beach, California, with ambient‐noise interferometry. Journal of Geophysical Research: Solid Earth, 120(2), 1159-1173.</li>
+<li><b>Chang, Jason P.</b>, Sjoerd AL de Ridder, and Biondo L. Biondi. "High-frequency Rayleigh-wave tomography using traffic noise from Long Beach, California." Geophysics 81.2 (2016): B43-B53.</li>
+<li>Nakata, Nori, <b>Jason P. Chang</b>, Jesse F. Lawrence, and Pierre Boué. "Body wave extraction and tomography at Long Beach, California, with ambient‐noise interferometry." Journal of Geophysical Research: Solid Earth 120.2 (2015): 1159-1173.</li>
 </ul>
 </dd>
 <br>
+<h4>SELECTED CONFERENCE PRESENTATIONS (OF 10)</h4>
+<br>
+<ul style="padding: 0px;">
+<li><b>Chang, Jason P.</b>. "Multicomponent ambient noise crosscorrelation at Forties." SEG Technical Program Expanded Abstracts 2016. Society of Exploration Geophysicists, 2016. 2709-2714.</li>
+<li><b>Chang, Jason P.</b>, and Biondo Biondi. "Rayleigh-wave tomography using traffic noise at Long Beach, CA." SEG Technical Program Expanded Abstracts 2015. Society of Exploration Geophysicists, 2015. 2424-2429.</li>
+<li><b>Chang, Jason P.</b>, and Rosemary J. Knight. "Resolving Lithological Units in the Vadose Zone from Temporal Changes in Electrical Conductivity." AGU Fall Meeting Abstracts. 2014.</li>
+<li><b>Chang, Jason P.</b>, Sjoerd de Ridder, and Biondo Biondi. "Power spectral densities and ambient noise cross-correlations at Long Beach." SEG Technical Program Expanded Abstracts 2013. Society of Exploration Geophysicists, 2013. 2196-2200.</li>
+</ul>
 <h4>TEACHING EXPERIENCE</h4>
 <h6>Stanford University</h6>
 <em>Teaching Assistant</em>
