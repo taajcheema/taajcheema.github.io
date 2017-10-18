@@ -77,8 +77,10 @@ seismic processing</li>
 <h4>TEACHING EXPERIENCE</h4>
 <h6>Stanford University</h6>
 <em>Teaching Assistant</em>
+<dd>
 <ul style="padding: 0px;">
 <li>3D Seismic Imaging (Spring 2015)</li>
 <li>Basic Earth Imaging (Fall 2016)</li>
 </ul>
+</dd>
 <p>
