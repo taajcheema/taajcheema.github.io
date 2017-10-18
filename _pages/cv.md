@@ -12,6 +12,8 @@ permalink: /cv/
 <li>Thesis: <em>"Subsurface imaging with non-traditional passive seismic sources"</em></li>
 <li>Advisor: Biondo Biondi</li>
 <li>Conducted research in the field of seismic imaging, transforming massive amounts of continuous recordings of ambient seismic noise into images of the subsurface.</li>
+<li>Developed codes in Fortran and Python to organize and process 48 TB of continuous seismic data from a dense array in Long Beach, CA. Characterized the urban seismic noise field and produced near-surface velocity maps using vibrations from local traffic noise.</li>
+<li>Extracted coherent body-wave and interface-wave signal from continuous recordings of ambient seismic noise from multi-component ocean-bottom nodes. Used resulting signal to identify reflectors in the subsurface.</li>
 </ul>
 </dd>
 <h6>B.A., Geophysics, University of California, Berkeley (2006-2010)</h6>
@@ -29,10 +31,10 @@ permalink: /cv/
 <dd>
 <ul style="padding: 0px;">
 <li>Evaluated and modeled the effect of broadband seismic technology on amplitude vs offset response </li>
+<li>Carried out quality control on well log data and predicted missing well log information using various rock-physics models. </li>
 <li>Collaborated extensively with colleagues across the company to 
 address problems spanning from rock physics to subsurface interpretation to 
 seismic processing</li>
-<li>Carried out quality control on well log data and predicted missing well log information using various rock-physics models. </li>
 </ul>
 </dd>
 <h6>e4sciences | Earthworks, LLC, Sandy Hook, CT (July-September 2014)</h6>
