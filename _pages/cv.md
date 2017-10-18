@@ -106,7 +106,7 @@ seismic processing</li>
 <h4>SKILLS</h4>
 <dd>
 <ul style="padding: 0px;">  
-<li><b>Programming</b>:
+<li><b>Programming</b>:</li>
 <ul>
 <li><em>Proficient</em>: Python, Fortran, MATLAB, Make</li>
 <li><em>Developing</em>: R, C, C++, SQL</li>
