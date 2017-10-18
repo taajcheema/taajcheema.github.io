@@ -86,3 +86,8 @@ seismic processing</li>
 </dd>
 <br>
 <h4>Skills</h4>
+<dd>
+<ul style="padding: 0px;">  
+<li><b>Programming</b>: Python, Fortran, MATLAB, Make, R (proficient) C, C++, SQL (developing</li>
+</ul>
+</dd>
