@@ -14,11 +14,13 @@ permalink: /cv/
 </ul>
 </dd>
 <h6>B.A., Geophysics, University of California, Berkeley (2006-2010)</h6>
+<dd>
 <p>
 <ul style="padding: 0px;">
 <li>Minor: Physics</li>
 <li>Awards: Earth and Planetary Science Departmental Citation</li>
 </ul>
+</dd>
 <br>
 <h4>WORK EXPERIENCE</h4>
 <h6>ExxonMobil Corporation, Houston, TX (June-September 2016)</h6>
@@ -40,11 +42,20 @@ seismic processing</li>
 <li> Developed easy-to-use Python script to streamline data quality-control measures onboard acquistion boats</li>
 </ul>
 </dd>
-<h6>Research Intern: Lawrence Berkeley National Laboratory, Berkeley, CA (August-September 2011)</h6>
+<h6>Lawrence Berkeley National Laboratory, Berkeley, CA (August-September 2011)</h6>
+<em>Student Assistant</em>
 <dd>
 <ul style="padding: 0px;">
 <li>Developed a MATLAB script for visualization of 3D magnetotelluric inversion results.</li>
 <li> Produced a thorough user’s manual for the software.</li>
+</ul>
+</dd>
+<h6>Participant, NSF International Research Experiences for Students, New Zealand (April-May 2011)</h6>
+<em>Participant</em>
+<dd>
+<ul style="padding: 0px;">
+<li>Investigated whether changes in magnetotelluric phase tensors over time were due to changes in the subsurface or due to measurement errors </li>
+<li> Performed field work in the Taupo Volcanic Zone</li>
 </ul>
 </dd>
 <h4>TEACHING EXPERIENCE</h4>
