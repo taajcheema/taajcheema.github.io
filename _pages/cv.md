@@ -11,6 +11,7 @@ permalink: /cv/
 <ul style="padding: 0px;">
 <li>Thesis: <em>"Subsurface imaging with non-traditional passive seismic sources"</em></li>
 <li>Advisor: Biondo Biondi</li>
+<li>Conducted research in the field of seismic imaging, transforming massive amounts of continuous recordings of ambient seismic noise into images of the subsurface.</li>
 </ul>
 </dd>
 <h6>B.A., Geophysics, University of California, Berkeley (2006-2010)</h6>
@@ -27,19 +28,19 @@ permalink: /cv/
 <em>Research Intern</em>
 <dd>
 <ul style="padding: 0px;">
-<li>Evaluated and modeled the effect of broadband seismic technology on amplitude vs 
-offset response </li>
+<li>Evaluated and modeled the effect of broadband seismic technology on amplitude vs offset response </li>
 <li>Collaborated extensively with colleagues across the company to 
 address problems spanning from rock physics to subsurface interpretation to 
 seismic processing</li>
+<li>Carried out quality control on well log data and predicted missing well log information using various rock-physics models. </li>
 </ul>
 </dd>
 <h6>e4sciences | Earthworks, LLC, Sandy Hook, CT (July-September 2014)</h6>
 <em>Research Intern</em>
 <dd>
 <ul style="padding: 0px;">
-<li>Processed all seismic data for a variety of engineering projects</li>
-<li> Developed easy-to-use Python script to streamline data quality-control measures onboard acquistion boats</li>
+<li>Processed all seismic data and performed basic interpretation of seismic cross-sections for a variety of engineering-related projects throughout the United States</li>
+<li> Developed easy-to-use Python scripts to streamline both quality control of acquired seismic data and the seismic processing procedure</li>
 </ul>
 </dd>
 <h6>Lawrence Berkeley National Laboratory, Berkeley, CA (August-September 2011)</h6>
@@ -63,13 +64,15 @@ seismic processing</li>
 <dd>
 <ul style="padding: 0px;">
 <li> Compared measured P and PcP arrivals from earthquake events in South America with modeled arrival times to investigate D” layer anisotropy in the quasi-southern hemisphere</li>
+<li>Created internal document to facilitate continuation of the project</li>
 </ul>
 </dd>
 <h6>Jet Propulsion Laboratory, La Cañada Flintridge, California (June-August 2009)</h6>
 <em>Research Intern</em>
 <dd>
 <ul style="padding: 0px;">
-<li> Examined surface roughness of Enceladus in order to understand the physical composition of expelled plume material and the geologic evolution of this moon</li>
+<li>Quantified the macroscopic surface texture of Enceladus' south polar region using intensity scans measured by the Cassini spacecraft</li>
+<li>Leveraged results to infer the physical composition of expelled plume material and the geologic evolution of this moon</li>
 </ul>
 </dd>
 <h4>TEACHING EXPERIENCE</h4>
