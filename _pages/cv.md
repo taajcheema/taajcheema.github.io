@@ -65,5 +65,13 @@ seismic processing</li>
 <li> Compared measured P and PcP arrivals from earthquake events in South America with modeled arrival times to investigate D” layer anisotropy in the quasi-southern hemisphere</li>
 </ul>
 </dd>
+<h6>Jet Propulsion Laboratory, La Cañada Flintridge, California</h6>
+<em>Research Intern</em>
+<dd>
+<ul style="padding: 0px;">
+<li> Examined surface roughness of Enceladus in order to understand the physical composition of expelled plume material and the geologic evolution of this moon</li>
+</ul>
+</dd>
+<h4>TEACHING EXPERIENCE</h4>
 <h4>TEACHING EXPERIENCE</h4>
 <p>
