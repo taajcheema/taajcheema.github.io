@@ -7,7 +7,7 @@ permalink: /projects/
 
 <div class="tiles">                                                             
 {% for post in site.categories.projects %}
-  {% include post-list.html %}                                                  
+  {% include post-grid.html %}                                                  
 {% endfor %}                                                                    
 </div>
 
