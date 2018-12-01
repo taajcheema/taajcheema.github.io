@@ -4,25 +4,15 @@ title: CV
 share: false
 permalink: /cv/
 ---
-
-<h4 class="fn">EDUCATION</h4>
-<h6>PhD Candidate, Geophysics, Stanford University (2011-current)</h6>
-<dd>
-<ul style="padding: 0px;">
-<li>Thesis: <em>"Subsurface imaging with non-traditional passive seismic sources"</em></li>
-<li>Advisor: Biondo Biondi</li>
-</ul>
-</dd>
-<h6>B.A., Geophysics, University of California, Berkeley (2006-2010)</h6>
-<p>
-<dd>
-<ul style="padding: 0px;">
-<li>Minor: Physics</li>
-<li>Awards: Earth and Planetary Science Departmental Citation</li>
-</ul>
-</dd>
 <br>
 <h4>WORK EXPERIENCE</h4>
+<h6>LinkedIn Corporation (October 2018-present)</h6>
+<em>Software Engineer-Data Analysis/Data Mining/Machine Learning</em>
+<dd>
+<ul style="padding: 0px;">
+<li>Anti-Abuse Artificial Intelligence team</li>
+</ul>
+</dd>
 <h6>ExxonMobil Corporation, Houston, TX (June-September 2016)</h6>
 <em>Research Intern</em>
 <dd>
@@ -75,6 +65,23 @@ seismic processing</li>
 </ul>
 </dd>
 <br>
+<h4 class="fn">EDUCATION</h4>
+<h6>PhD Candidate, Geophysics, Stanford University (2011-2018)</h6>
+<dd>
+<ul style="padding: 0px;">
+<li>Thesis: <em>"Subsurface imaging with non-traditional passive seismic sources"</em></li>
+<li>Advisor: Biondo Biondi</li>
+</ul>
+</dd>
+<h6>B.A., Geophysics, University of California, Berkeley (2006-2010)</h6>
+<p>
+<dd>
+<ul style="padding: 0px;">
+<li>Minor: Physics</li>
+<li>Awards: Earth and Planetary Science Departmental Citation</li>
+</ul>
+</dd>
+<br>
 <h4>PUBLICATIONS</h4>
 <dd>                                                                            
 <ul style="padding: 0px;">
@@ -108,8 +115,8 @@ seismic processing</li>
 <ul style="padding: 0px;">  
 <li><b>Programming</b>:</li>
 <ul>
-<li><em>Proficient</em>: Python, Fortran, MATLAB, Make</li>
-<li><em>Developing</em>: R, C, C++, SQL</li>
+<li><em>Proficient</em>: Python, SQL, Fortran, MATLAB, Make</li>
+<li><em>Developing</em>: Scala, R, C, C++</li>
 </ul>
 <li><b>Software Development</b>: Git, Docker</li>
 <li><b>Operating Systems</b>: Linux/Unix, Mac OS X, Windows</li>
@@ -119,8 +126,8 @@ seismic processing</li>
 <h4>PROFESSIONAL AFFILIATIONS</h4>
 <dd>                                                                            
 <ul style="padding: 0px;"> 
-<li>American Geophysical Union (2009-present)</li>
-<li>Society of Exploration Geophysicists (2011-present)</li>
+<li>American Geophysical Union (2009-2017)</li>
+<li>Society of Exploration Geophysicists (2011-2017)</li>
 <ul>
 <li>President of the Stanford SEG student chapter (2012)</li>
 </ul>
