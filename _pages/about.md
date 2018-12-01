@@ -9,7 +9,7 @@ permalink: /about/
     <title>About</title>
   </head>
   <body>
-  <img style="float: right; display: inline;" alt="" src="{{ site.url }}/images/jpc.jpg" width="310" height="297" />
+  <img style="float: right; display: inline;" alt="" src="{{ site.url }}/images/Jason_Chang_close.jpg" width="310" height="297" />
   <!--<img align="right" alt="" src="{{ site.url }}/images/jpc.jpg" />-->
    <p>
    My name is Jason Chang, and I am currently a Software Engineer at LinkedIn. I am a member of the Anti-Abuse Artificial Intelligence team, managed by Jenelle Bray.
