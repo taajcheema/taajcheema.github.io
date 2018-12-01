@@ -1,19 +1,19 @@
 ---                                                                             
 layout: media                                                                   
-title: "Baseball pitch classification through cluster analysis"
+title: "Anomalease"
 categories: projects
-excerpt: "Taking an unsupervised learning approach to grouping pitches based on trajectory information."
+excerpt: "An NLP approach to quickly group common commercial lease clauses for closer inspection"
 ads: false                                                                       
 modified: " "
 share: false
 image:
-  teaser: classification.jpg
+  teaser: cluster-securitydeposit.png
   credit: Jason P Chang
 ---                                                                             
 
 <img src="{{ site.url }}/images/{{page.image.teaser}}" /> 
 
-<div><em>Hierarchical clustering with 5 clusters and Ward linkage for pitches thrown by Barry Zito in 2008.</em></div>
+<div><em>Projection of tf-idf vectors in two dimensions after Latent Semantic Analysis. Red points correspond to a group of insurance clauses and blue points correspond to all other clauses.</em></div>
 <p>
 Pitchers are distinguished by the types of pitches they throw. Some throw mostly fastballs while some throw mostly breaking balls. Some throw four different pitches while some throw fewer. Here, I take an unsupervised approach to classifying pitches thrown by a given pitcher. Using pitch trajectory information (e.g., starting velocity/acceleration, start and end location, spin information) from scraped Pitchf/x data from 2008, I investigate various clustering approaches for grouping pitches. I find that hierarchical clustering with Ward variance minimization linkage works well when using the horizontal/vertical accelerations and the starting speed of the ball as features. However, this approach requires the number of clusters to be known ahead of time.
 </p>
@@ -21,5 +21,5 @@ Pitchers are distinguished by the types of pitches they throw. Some throw mostly
 To automatically determine the number of clusters, I implement density-based spatial clustering of applications with noise (DBSCAN) and devise an approach to adapt the associated model parameters based on the data. To classify the remaining outliers from DBSCAN, I use the centroids of the DBSCAN clusters to run one iteration of K-means clustering. This automatic approach to grouping pitches works well when pitches are well-separated in feature space, and requires some parameter tuning where there are variable-density or poorly-separated clusters. Overall, this approach should be taken as a simple automatic initial step in classifying the pitches of a certain pitcher.
 </p>
 
-<b>Notebook</b><br />
-<a href="https://github.com/jasonpchang/pitchfx_sql/blob/master/notebooks/pitch_classification/pitch_classification.ipynb" target="_blank">Pitch classification notebook</a>
+<b>Medium post</b><br />
+<a href="https://medium.com/@chang.jasonp.insight/anomalease-fc24b4bd166d" target="_blank">Anomalease</a>
