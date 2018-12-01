@@ -4,43 +4,51 @@ title: CV
 share: false
 permalink: /cv/
 ---
-<br>
 <h4>WORK EXPERIENCE</h4>
-<h6>LinkedIn Corporation (October 2018-present)</h6>
-<em>Software Engineer-Data Analysis/Data Mining/Machine Learning</em>
+<h6>LinkedIn Corporation, Sunnyvale, CA (October 2018-present)</h6>
+<em>Software Engineer - Data Analysis/Data Mining/Machine Learning</em>
 <dd>
 <ul style="padding: 0px;">
 <li>Anti-Abuse Artificial Intelligence team</li>
 </ul>
 </dd>
-<h6>ExxonMobil Corporation, Houston, TX (June-September 2016)</h6>
+<h6>Stanford University, Stanford, CA (September 2011-August 2018)</h6>
+<em>Research Assistant</em>
+<dd>
+<ul style="padding: 0px;">
+<li>Built Fortran and Python pipelines to process and organize 48 TB of raw seismic time-series data</li>
+<li>Implemented signal processing techniques to identify temporal and spatial patterns in continuous raw seismic data</li>
+<li>Developed parallelized code to separate coherent spatial signals from noise</li>
+<li>Performed conjugate gradient optimization and hyperparameter exploration analysis for a weighted least squares problem to generate high-resolution models of subsurface velocity structure, which are critical for earthquake hazard analysis and continuous subsurface monitoring</li>
+</ul>
+</dd>
+<h6>ExxonMobil Corporation, Houston, TX (June 2016-September 2016)</h6>
 <em>Research Intern</em>
 <dd>
 <ul style="padding: 0px;">
-<li>Evaluated and modeled the effect of broadband seismic technology on amplitude vs offset response </li>
-<li>Carried out quality control on well log data and predicted missing well log information using various rock-physics models. </li>
-<li>Collaborated extensively with colleagues across the company to 
-address problems spanning from rock physics to subsurface interpretation to 
-seismic processing</li>
+<li>Created MATLAB code to model the effect of broadband seismic technology on critical hydrocarbon indicators and compared results to field data</li>
+<li>Predicted reservoir rock properties from spatial well log data using rock physics models</li>
+<li>Presented findings and outlined suggestions for improved evaluation of new technology to a company-wide audience, including team supervisors and managers</li>
 </ul>
 </dd>
-<h6>e4sciences | Earthworks, LLC, Sandy Hook, CT (July-September 2014)</h6>
+<h6>e4sciences | Earthworks, LLC, Sandy Hook, CT (July 2014-September 2014)</h6>
 <em>Research Intern</em>
 <dd>
 <ul style="padding: 0px;">
-<li>Processed all seismic data and performed basic interpretation of seismic cross-sections for a variety of engineering-related projects throughout the United States</li>
-<li> Developed easy-to-use Python scripts to streamline both quality control of acquired seismic data and the seismic processing procedure</li>
+<li>Leveraged open-source software to manage seismic data and model subsurface structures</li>
+<li>Developed Python script to shorten the time between acquisition and quality control of seismic data</li>
+<li>Contributed visualization and interpretation of results to final written reports distributed to clients</li>
 </ul>
 </dd>
-<h6>Lawrence Berkeley National Laboratory, Berkeley, CA (August-September 2011)</h6>
+<h6>Lawrence Berkeley National Laboratory, Berkeley, CA (August 2011-September 2011)</h6>
 <em>Student Assistant</em>
 <dd>
 <ul style="padding: 0px;">
-<li>Developed a MATLAB script for visualization of 3D magnetotelluric inversion results.</li>
-<li> Produced a thorough user’s manual for the software.</li>
+<li>Developed a MATLAB script for visualization of 3D magnetotelluric inversion results</li>
+<li> Produced a thorough user’s manual for the software</li>
 </ul>
 </dd>
-<h6>NSF International Research Experiences for Students, New Zealand (April-May 2011)</h6>
+<h6>NSF International Research Experiences for Students, New Zealand (April 2011-May 2011)</h6>
 <em>Participant</em>
 <dd>
 <ul style="padding: 0px;">
@@ -56,7 +64,7 @@ seismic processing</li>
 <li>Created internal document to facilitate continuation of the project</li>
 </ul>
 </dd>
-<h6>Jet Propulsion Laboratory, La Cañada Flintridge, California (June-August 2009)</h6>
+<h6>Jet Propulsion Laboratory, La Cañada Flintridge, California (June 2009-August 2009)</h6>
 <em>Research Intern</em>
 <dd>
 <ul style="padding: 0px;">
@@ -66,14 +74,14 @@ seismic processing</li>
 </dd>
 <br>
 <h4 class="fn">EDUCATION</h4>
-<h6>PhD Candidate, Geophysics, Stanford University (2011-2018)</h6>
+<h6>PhD, Geophysics, Stanford University (2011-2018)</h6>
 <dd>
 <ul style="padding: 0px;">
-<li>Thesis: <em>"Subsurface imaging with non-traditional passive seismic sources"</em></li>
+<li>Thesis: <em>"Imaging with ambient seismic noise: Beyond surface-wave microseisms"</em></li>
 <li>Advisor: Biondo Biondi</li>
 </ul>
 </dd>
-<h6>B.A., Geophysics, University of California, Berkeley (2006-2010)</h6>
+<h6>BA, Geophysics, University of California, Berkeley (2006-2010)</h6>
 <p>
 <dd>
 <ul style="padding: 0px;">
