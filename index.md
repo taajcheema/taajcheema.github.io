@@ -6,7 +6,7 @@ image:
 ---
 <body>
 <p>
-Hi there! I'm Jason, and I'm currently a Software Engineer at <a href="https://www.linkedin.com/">Linkedin</a> focusing on Data Analysis, Data Mining, and Machine Learning. As part of the Anti-Abuse Artificial Intelligence team, I work on the identification, prevention, and removal of bad actors on Linkedin's multiple platforms.
+Hi there! I'm Taaj, and I'm currently a Data Scientist at <a href="https://www.ibm.com/us-en/?ar=1/">IBM</a> focusing on Data Analysis, Data Mining, and Machine Learning. As part of the Anti-Abuse Artificial Intelligence team, I work on the identification, prevention, and removal of bad actors on Linkedin's multiple platforms.
 <br>
 <br>
 Prior to joining Linkedin, I earned my PhD from the <a href="https://pangea.stanford.edu/geophysics">Department of Geophysics at Stanford University</a>. As part of the <a href="http://sepwww.stanford.edu/doku.php">Stanford Exploration Project</a>, I demonstrated how massive amounts of continuous recordings of natural ground vibrations could be used to generate geologic maps of the Earth. You can find more information about my research under the <a href="https://jasonpchang.github.io/research/">Research</a> tab.
