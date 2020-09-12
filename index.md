@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: image1.jpg
+  feature: 20150613_074.jpg
 ---
 <body>
 <p>
