@@ -1,6 +1,7 @@
 ---
 layout: article
 title: About
+share: true
 permalink: /about/
 ---
 
