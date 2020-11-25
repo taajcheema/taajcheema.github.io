@@ -6,8 +6,11 @@
 - title: Articles
   url: /articles/
   
-  - title: Blog
+- title: Blog
   url: /blog/
+  
+- title: Blog2
+  url: /blog2/
 
 - title: About
   url: /about/
