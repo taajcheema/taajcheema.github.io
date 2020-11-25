@@ -4,6 +4,9 @@ permalink: /
 image:
   feature: river.jpg
 ---
+
+
+# Hi there! I'm Taaj
 <body>
 <p>
 Hi there! I'm Taaj, and I'm currently a Data Scientist at <a href="https://www.ibm.com/us-en/?ar=1/">IBM</a> focusing on Data Analysis, Data Mining, and Machine Learning. As part of the Anti-Abuse Artificial Intelligence team, I work on the identification, prevention, and removal of bad actors on Linkedin's multiple platforms.
