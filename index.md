@@ -10,12 +10,12 @@ I'm Taaj, and I'm currently a Data Scientist at <a href="https://www.ibm.com/us-
 
 I like asking questions, especially to myself. This means, most of my time I
 
-* **[read]**(https://www.goodreads.com/user/show/79583019-taaj-cheema) and
+* **[read](https://www.goodreads.com/user/show/79583019-taaj-cheema)** and
 
-* **[think]**(https://taajcheema.github.io/projects/)
+* **[think](https://taajcheema.github.io/projects/)**
 
 Sometimes, when I stumble upon an answer, I also
 
-* **[write]**(https://taajcheema.github.io/research/) and
+* **[write](https://taajcheema.github.io/research/)** and
 
-* **[code]**(https://github.com/taajcheema)
+* **[code](https://github.com/taajcheema)**
