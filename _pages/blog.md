@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Blog2
+title: Blog
 share: false
-permalink: /blog2/
+permalink: /blog/
 ---
