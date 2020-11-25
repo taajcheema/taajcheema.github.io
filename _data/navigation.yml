@@ -5,6 +5,11 @@
 
 - title: Articles
   url: /articles/
+  
+  - title: Blog
+  url: /blog/
+  excerpt: "Tutorials"
+  image: 
 
 - title: About
   url: /about/
