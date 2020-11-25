@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: river10.jpg
+  feature: river2.jpg
 ---
 
 
