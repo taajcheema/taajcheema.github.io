@@ -18,12 +18,24 @@ Prior to joining Linkedin, I earned my PhD from the <a href="https://pangea.stan
 Additionally, I am an avid sports fan with a particular interest in sports analytics. You can find some of my work with PitchFX data in baseball under the <a href="https://jasonpchang.github.io/projects/">Projects</a> tab.
 <br>
 <br>
+Additionally, I am an avid sports fan with a particular interest in sports analytics. You can find some of my work with PitchFX data in baseball under the <a href="https://jasonpchang.github.io/projects/">Projects</a> tab.
+<br>
+<br>
 Thanks for visiting!
 </p>
 </body>
 
 # Neue Herausforderungen
-Geringe finanzielle Mittel und die Bedrohung durch Baggerschaufeln oder Raubgräber bringen die klassische Archäologie zunehmend in Bedrängnis. Archäologisch relevante Stätten müssen *schnell* und *kostengünstig* dokumentiert werden, bevor sie für immer verschwinden. Dabei liefern *größere räumliche Zusammenhänge* oft wichtige Erkenntnisse, die sich durch Schaufel, Pinsel und Zeichenbrett nur schwer erschliessen.
+I like asking questions, especially to myself. This means, most of my time I
 
+read and
+
+think
+
+Sometimes, when I stumble upon an answer, I also
+
+write and
+
+code
 # Neue Lösungen
 Durch den Einsatz von umbemannten Luftfahrzeugen ("Drohnen"), Bildübertragung auf den Boden, hochauflösende Fotos, Differential-GPS und mobilen Erfassungsgeräten lassen sich Funde und Befunde schnell und günstig dokumentieren. Mit Hilfe der gewonnen Daten können die Stellen identifiziert werden, an denen sich eine Grabung am ehesten lohnt.
