@@ -1,8 +1,8 @@
 ---
 layout: article
-title: CV
+title: Notes
 share: false
-permalink: /cv/
+permalink: /notes/
 ---
 <h4>WORK EXPERIENCE</h4>
 <h6>LinkedIn Corporation, Sunnyvale, CA (October 2018-present)</h6>
