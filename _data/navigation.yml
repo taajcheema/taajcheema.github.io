@@ -1,13 +1,10 @@
 # Site navigation links
 
-- title: Research
-  url: /research/
-
 - title: Projects
   url: /projects/
 
-- title: CV
-  url: /cv/
+- title: Articles
+  url: /research/
 
 - title: About
   url: /about/
