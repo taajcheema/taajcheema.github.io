@@ -1,12 +1,12 @@
 ---
 layout: media
-title: Research
+title: Articles
 share: false
-permalink: /research/
+permalink: /articles/
 ---
 
 <div class="tiles">                                                             
-{% for post in site.categories.research %}
+{% for post in site.categories.articles %}
   {% include post-grid.html %}                                                  
 {% endfor %}                                                                    
 </div><!-- /.tiles -->     
