@@ -1,4 +1,5 @@
-layout: media
-title: blog
-share: false
+---
+layout: article
+title: Blog
 permalink: /blog/
+---
