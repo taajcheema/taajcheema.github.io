@@ -6,7 +6,6 @@ image:
 ---
 
 
-# Hi there! I'm Taaj
 <body>
 <p>
 Hi there! I'm Taaj, and I'm currently a Data Scientist at <a href="https://www.ibm.com/us-en/?ar=1/">IBM</a> focusing on Data Analysis, Data Mining, and Machine Learning. As part of the Anti-Abuse Artificial Intelligence team, I work on the identification, prevention, and removal of bad actors on Linkedin's multiple platforms.
@@ -28,14 +27,14 @@ Thanks for visiting!
 # Neue Herausforderungen
 I like asking questions, especially to myself. This means, most of my time I
 
-read and
+* read and
 
-think
+* think
 
 Sometimes, when I stumble upon an answer, I also
 
-write and
+* write and
 
-code
+* code
 # Neue Lösungen
 Durch den Einsatz von umbemannten Luftfahrzeugen ("Drohnen"), Bildübertragung auf den Boden, hochauflösende Fotos, Differential-GPS und mobilen Erfassungsgeräten lassen sich Funde und Befunde schnell und günstig dokumentieren. Mit Hilfe der gewonnen Daten können die Stellen identifiziert werden, an denen sich eine Grabung am ehesten lohnt.
