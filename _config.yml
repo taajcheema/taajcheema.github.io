@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "Taaj Cheema's Portfolio"
-description: "geophysicist"
+title: "Taaj Cheema"
+description: "data science"
 logo: /images/logo512.png
 teaser: /images/logo512.png
 locale: en
@@ -25,15 +25,15 @@ gems:
 
 
 # Site owner
-owner:
-  name:
-  email:
+owner: Taaj Cheema
+  name: Taaj Cheema
+  email: taajcheema@gmail.com
   twitter:
   google:
     ad-client:
     ad-slot:
   bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar: /images/logo512.png
   disqus-shortname:
 
 
