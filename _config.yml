@@ -25,15 +25,15 @@ gems:
 
 
 # Site owner
-owner: Taaj Cheema
-  name: 
+owner:
+  name:
   email: taajcheema@gmail.com
   twitter:
   google:
     ad-client:
     ad-slot:
   bio:
-  avatar: /images/logo512.png
+  avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
 
