@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: "Taaj Cheema"
+title: "Taaj Cheema's Portfolio"
 description: "geophysicist"
 logo: /images/logo512.png
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser: /images/logo512.png
 locale: en
 url:
 feed:
