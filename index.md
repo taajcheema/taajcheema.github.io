@@ -6,9 +6,9 @@ image:
   feature: river2.jpg
 ---
 
-<head>
+
 <title>Hi there!</title>
-<head>
+
  
 I'm Taaj, and I'm currently a Data Scientist at <a href="https://www.ibm.com/us-en/?ar=1/">IBM</a> focusing on Cloud, Data Analysis, Data Mining, and Machine Learning.
 
