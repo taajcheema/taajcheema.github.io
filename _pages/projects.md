@@ -3,6 +3,8 @@ layout: media
 title: Projects
 share: false
 permalink: /projects/
+image:
+  feature: bixby_2.jpg
 ---
 
 <div class="tiles">                                                             
