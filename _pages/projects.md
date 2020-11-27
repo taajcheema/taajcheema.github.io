@@ -4,7 +4,7 @@ title: Projects
 share: false
 permalink: /projects/
 image:
-  feature: bixby_2.jpg
+  feature: mcway.jpg
 ---
 
 <div class="tiles">                                                             
