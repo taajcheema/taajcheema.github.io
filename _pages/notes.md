@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: home
 title: Notes
 share: false
 permalink: /notes/
