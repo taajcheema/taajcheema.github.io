@@ -6,10 +6,10 @@ image:
   feature: river2.jpg
 ---
 
+<!-- This is commented out. -->
 
-<title>Hi there!</title>
+# Hi there!
 
- 
 I'm Taaj, and I'm currently a Data Scientist at <a href="https://www.ibm.com/us-en/?ar=1/">IBM</a> focusing on Cloud, Data Analysis, Data Mining, and Machine Learning.
 
 I like asking questions, especially to myself. This means, most of my time I
