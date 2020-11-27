@@ -2,6 +2,7 @@
 layout: home
 permalink: /
 share: true
+excerpt: " <br> <br>"
 image:
   feature: river2.jpg
 ---
