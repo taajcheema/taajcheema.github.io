@@ -10,7 +10,7 @@ image:
 
 # Hi there!
 
-I'm Taaj, and I'm currently a Data Scientist at <a href="https://www.ibm.com/us-en/?ar=1/">IBM</a> focusing on Cloud, Statistical Data Analysis and Machine Learning.
+I'm Taaj, and I'm currently a Data Scientist at <a href="https://www.ibm.com/us-en/?ar=1/">IBM</a> focusing on cloud, statistical data analysis and machine learning.
 
 I like asking questions, especially to myself. This means, most of my time I
 
