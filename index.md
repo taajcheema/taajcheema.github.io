@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /
+share: false
 image:
   feature: river2.jpg
 ---
