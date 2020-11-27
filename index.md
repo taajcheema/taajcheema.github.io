@@ -3,7 +3,7 @@ layout: home
 permalink: /
 share: true
 image:
-  feature: river2.jpg
+  feature: bixby_2.jpg
 ---
 
 <!-- This is commented out. -->
