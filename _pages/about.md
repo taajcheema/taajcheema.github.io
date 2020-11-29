@@ -15,7 +15,7 @@ permalink: /about/
    <p>
   <!-- My name is Taaj Cheema, and I am currently a Data Scientist at IBM. I am a member of the SAP Analytics practice within IBM GBS. Prior to joining IBM, I recieved a B.S. in Data Science and a B.S. in Molecular and Cell Biology from the University of Connecticut. >-->
    <br />
-   <br /> >-->
+   <br /> 
    I started this website to share some ideas I think are worth sharing and also to work on my writing skills. Over time, I hope to make this site a repository of ideas I have whether that be related to data science, sports analytics, personal finance, or musings on books and podcasts I enjoy. 
    <br />
    <br />
