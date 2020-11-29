@@ -2,7 +2,7 @@
 layout: media
 title: Writings
 share: false
-permalink: /W=writings/
+permalink: /writings/
 
 ---
 
