@@ -3,9 +3,7 @@ layout: media
 title: Projects
 share: false
 permalink: /projects/
-image:
-  feature: mcway_falls.jpg
----
+--- 
 
 <div class="tiles">                                                             
 {% for post in site.categories.projects %}
