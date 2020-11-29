@@ -3,8 +3,7 @@ layout: home
 title: Notes
 share: false
 permalink: /notes/
-image:
-  feature: golden_gate.jpg
+
 ---
 <h4>WORK EXPERIENCE</h4>
 <h6>LinkedIn Corporation, Sunnyvale, CA (October 2018-present)</h6>
