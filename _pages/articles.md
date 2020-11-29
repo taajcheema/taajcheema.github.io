@@ -3,8 +3,7 @@ layout: media
 title: Articles
 share: false
 permalink: /articles/
-image:
-  feature: china_beach_SF.jpg
+
 ---
 
 <div class="tiles">                                                             
