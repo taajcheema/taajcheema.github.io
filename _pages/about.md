@@ -22,7 +22,7 @@ permalink: /about/
    <br />
    <br />
      
-Over time, I hope to make this site a repository of ideas I have whether that be related to technology, personal finance, or musings on books and podcasts I enjoy. 
+Over time, I hope to make this site a repository of ideas whether that be related to technology, personal finance, or musings on books and podcasts I enjoy. 
    
    <br />
    <br />
