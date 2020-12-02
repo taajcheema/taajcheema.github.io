@@ -17,12 +17,12 @@ permalink: /about/
    <br />
    <br /> >-->
      
-   I started this website to share some ideas I think are worth sharing and also to become a better writer. 
+   I started this website to share some ideas I think are worth sharing and become a better writer. 
   
    <br />
    <br />
      
-Over time, I hope to make this site a repository of ideas whether that be related to technology, personal finance, or musings on books and podcasts I enjoy. 
+Over time, I hope to make this site a repository of ideas whether that be related to technology, personal finance, or musings on books and podcasts I find interesting. 
    
    <br />
    <br />
