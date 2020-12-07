@@ -17,7 +17,7 @@ permalink: /about/
    <br />
    <br /> >-->
      
-   I started this website to share some ideas I think are worth sharing, and to work on my writing skills. 
+   I started this website to work to write about some ideas I think are worth sharing.
   
    <br />
    <br />
