@@ -16,10 +16,10 @@ I like asking questions and **[learning](https://www.youracclaim.com/users/taaj-
 
 * **[read](https://www.goodreads.com/user/show/79583019-taaj-cheema)** and
 
-* **[think](https://taajcheema.github.io/projects/)**
+* **[think](https://taajcheema.com/projects/)**
 
 Sometimes, when I stumble upon an answer, I also
 
-* **[write](https://taajcheema.github.io/research/)** and
+* **[write](https://taajcheema.com/writings/)** and
 
 * **[code](https://github.com/taajcheema)**
