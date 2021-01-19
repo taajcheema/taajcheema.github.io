@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: home
 title: About
 share: true
 permalink: /about/
