@@ -20,6 +20,6 @@ I like asking questions and **[learning](https://www.youracclaim.com/users/taaj-
 
 Sometimes, when I stumble upon an answer, I also
 
-* **[write](https://taajcheema.com/writings/)** and
+* **[write](https://taajcheema.com/writing/)** and
 
 * **[code](https://github.com/taajcheema)**
