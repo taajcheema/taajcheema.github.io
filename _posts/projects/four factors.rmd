@@ -1,10 +1,17 @@
----
-title: "__Modeling Oliver's Four Factors__"
-author: "Taaj Cheema"
-output:
-  html_document:
-    keep_md: yes
-  pdf_document: default
+---                                                                             
+layout: media                                                                   
+title: "Four Factors"
+categories: projects
+excerpt: "__Modeling Oliver's Four Factors__"
+ads: false                                                                       
+modified: " "
+share: false
+image:
+  teaser: cluster-securitydeposit.png
+  
+   
+
+
 ---
 
 ```{r setup, include=FALSE}
