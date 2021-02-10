@@ -1,8 +1,8 @@
 ---
 layout: media
-title: Writings
+title: Writing
 share: false
-permalink: /writings/
+permalink: /writing/
 
 ---
 
