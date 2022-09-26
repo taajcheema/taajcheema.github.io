@@ -10,7 +10,7 @@ image:
 
 # Hi there!
 
-I'm Taaj, and I'm currently a Data & Applied Scientist at <a href="https://www.microsoft.com/en-us/">Microsoft</a>.
+I'm Taaj, and I'm currently a Data & Applied Scientist! at <a href="https://www.microsoft.com/en-us/">Microsoft</a>.
 
 I like asking questions and **[learning](https://www.youracclaim.com/users/taaj-cheema/badges)** new things. This means, most of my time I
 
