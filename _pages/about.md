@@ -1,6 +1,7 @@
 ---
 layout: article
 title: About
+share: true
 permalink: /about/
 ---
 
@@ -9,16 +10,23 @@ permalink: /about/
     <title>About</title>
   </head>
   <body>
-  <img style="float: right; display: inline;" alt="" src="{{ site.url }}/images/Jason_Chang_close.jpg" width="310" height="297" />
-  <!--<img align="right" alt="" src="{{ site.url }}/images/jpc.jpg" />-->
+  <!--<img style="float: right; display: inline;" alt="" src="{{ site.url }}/images/Jason_Chang_close.jpg" width="310" height="297" />
+  <img align="right" alt="" src="{{ site.url }}/images/jpc.jpg" />-->
    <p>
-   My name is Jason Chang, and I am currently a Software Engineer at LinkedIn. I am a member of the Anti-Abuse Artificial Intelligence team.
+  <!-- My name is Taaj Cheema, and I am currently a Data Scientist at IBM. I am a member of the SAP Analytics practice within IBM GBS. Prior to joining IBM, I recieved a B.S. in Data Science and a B.S. in Molecular and Cell Biology from the University of Connecticut. 
+   <br />
+   <br /> >-->
+     
+   I started this website to write about some ideas I think are worth sharing.
+  
    <br />
    <br />
-   Prior to joining LinkedIn, I got my PhD in Geophysics from Stanford University. I was a member of the Stanford Exploration Project. My research transformed massive amounts of recorded ambient seismic noise (naturally occurring and/or man-made vibrations) into images of Earth's subsurface properties. Such an approach provides a low-cost and effective solution to problems in fields ranging from earthquake engineering to astrophysics.
+     
+Over time, I hope to make this site a repository of ideas whether that be related to technology, travel, personal finance, or thoughts on books and podcasts I find interesting. 
+   
    <br />
    <br />
-   In my free time, I enjoy playing board games, throwing the frisbee, and keeping up with the latest developments in sports analytics.
+   
    </p>
   </body>
 </html>
